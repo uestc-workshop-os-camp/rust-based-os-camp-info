@@ -14,7 +14,7 @@
 
 #### 基于Rust语言的rCore Tutorial实验指导（做题最重要的文档资料！！！）
 - [实验文档](https://learningos.github.io/rCore-Tutorial-Guide-2024S/)
-- [API文档](https://github.com/LearningOS/rCore-Tutorial-Guide-2024S/#os-api-docs-of-rcore-tutorial-code-2022s) 
+- [API文档](https://github.com/LearningOS/rCore-Tutorial-Guide-2024S/?tab=readme-ov-file#os-api-docs-of-rcore-tutorial-code-2024s) 
 - [实验代码](https://github.com/LearningOS/rCore-Tutorial-Code-2024S)
 - [测试用例](https://github.com/LearningOS/rCore-Tutorial-Test-2024S)
 
